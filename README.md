@@ -4,7 +4,7 @@ Memorize game with various card themes and shuffling.
 
 ## Prerequisites
 
-    Xcode from Apple.
+Xcode from Apple.
 
 ## Running this sample in Xcode
 
